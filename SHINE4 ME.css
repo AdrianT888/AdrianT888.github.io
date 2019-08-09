@@ -1,0 +1,35 @@
+body,html{
+	background-image: url(https://i.pinimg.com/originals/a6/94/2e/a6942ebe7932d5ab0ff42b61f488ef52.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+h1{
+	text-align: center;
+	color: #FFFAFA;
+	position: relative;
+	left: 0%;
+	top: 20%;
+}
+
+
+.btn-dark{
+	background-color: black;
+	border-color: white;
+	width: -100px;
+   height: 50px;
+   position: absolute;
+   left: 60%;
+   top: 50%; 
+   margin-left: -250px;
+   margin-top: -150px;
+  }
+
+
+.btn-dark:hover{
+background-color: red;
+border-color: white;
+border-width: 3px;
+}
+
